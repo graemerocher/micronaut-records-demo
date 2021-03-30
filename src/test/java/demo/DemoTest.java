@@ -9,7 +9,6 @@ import javax.inject.Inject;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @MicronautTest
 class DemoTest {
